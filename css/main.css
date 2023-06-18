@@ -26,7 +26,7 @@ footer a:hover{
 /* CSS Grid for laying out elements */
 .grid-layout-1{
   display: grid;
-  grid-gap: 1em;
+  grid-gap: 4.95em;
   grid-template-areas: "header" "main" "footer";
   grid-template-rows: 0fr auto 1fr;
 }
